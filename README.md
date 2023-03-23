@@ -32,6 +32,8 @@ Setting-Up
 -Create a project ( django-admin startproject study_bud)
 -Cd into projct directory(eg:study_bud)
 -Start Server:python manage.py runserver
+-Setup:python manage.py startapp base
+
 
 
 Manage.py-->Execute our commands from 
